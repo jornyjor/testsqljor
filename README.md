@@ -1,2 +1,0 @@
-# testsqljor
-test sqljor
